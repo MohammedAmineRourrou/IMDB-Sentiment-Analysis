@@ -1,0 +1,4 @@
+
+The MLP achieved approximately 76% accuracy using only VADER and TextBlob
+sentence-level polarity features. The loss curves show stable learning with
+no overfitting.
